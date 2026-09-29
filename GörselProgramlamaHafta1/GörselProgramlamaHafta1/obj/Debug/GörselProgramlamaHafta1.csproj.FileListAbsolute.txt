@@ -1,0 +1,7 @@
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaHafta1\GörselProgramlamaHafta1\bin\Debug\GörselProgramlamaHafta1.exe.config
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaHafta1\GörselProgramlamaHafta1\bin\Debug\GörselProgramlamaHafta1.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaHafta1\GörselProgramlamaHafta1\bin\Debug\GörselProgramlamaHafta1.pdb
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaHafta1\GörselProgramlamaHafta1\obj\Debug\GörselProgramlamaHafta1.csproj.AssemblyReference.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaHafta1\GörselProgramlamaHafta1\obj\Debug\GörselProgramlamaHafta1.csproj.CoreCompileInputs.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaHafta1\GörselProgramlamaHafta1\obj\Debug\GörselProgramlamaHafta1.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaHafta1\GörselProgramlamaHafta1\obj\Debug\GörselProgramlamaHafta1.pdb
