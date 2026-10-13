@@ -1,0 +1,10 @@
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\bin\Debug\görselprogramlama 3hafta.exe.config
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\bin\Debug\görselprogramlama 3hafta.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\bin\Debug\görselprogramlama 3hafta.pdb
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\obj\Debug\görselprogramlama 3hafta.csproj.AssemblyReference.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\obj\Debug\görselprogramlama_3hafta.Form1.resources
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\obj\Debug\görselprogramlama_3hafta.Properties.Resources.resources
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\obj\Debug\görselprogramlama 3hafta.csproj.GenerateResource.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\obj\Debug\görselprogramlama 3hafta.csproj.CoreCompileInputs.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\obj\Debug\görselprogramlama 3hafta.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\görselprogramlama 3hafta\görselprogramlama 3hafta\obj\Debug\görselprogramlama 3hafta.pdb

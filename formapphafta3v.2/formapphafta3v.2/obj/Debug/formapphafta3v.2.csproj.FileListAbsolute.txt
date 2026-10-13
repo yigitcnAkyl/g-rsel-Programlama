@@ -1,0 +1,10 @@
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\bin\Debug\formapphafta3v.2.exe.config
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\bin\Debug\formapphafta3v.2.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\bin\Debug\formapphafta3v.2.pdb
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\obj\Debug\formapphafta3v.2.csproj.AssemblyReference.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\obj\Debug\formapphafta3v._2.Form1.resources
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\obj\Debug\formapphafta3v._2.Properties.Resources.resources
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\obj\Debug\formapphafta3v.2.csproj.GenerateResource.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\obj\Debug\formapphafta3v.2.csproj.CoreCompileInputs.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\obj\Debug\formapphafta3v.2.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\formapphafta3v.2\formapphafta3v.2\obj\Debug\formapphafta3v.2.pdb
