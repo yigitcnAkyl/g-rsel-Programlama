@@ -1,0 +1,9 @@
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\bin\Debug\GörselProgramlamaForm2.exe.config
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\bin\Debug\GörselProgramlamaForm2.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\bin\Debug\GörselProgramlamaForm2.pdb
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\obj\Debug\GörselProgramlamaForm2.csproj.AssemblyReference.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\obj\Debug\GörselProgramlamaForm2.Properties.Resources.resources
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\obj\Debug\GörselProgramlamaForm2.csproj.GenerateResource.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\obj\Debug\GörselProgramlamaForm2.csproj.CoreCompileInputs.cache
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\obj\Debug\GörselProgramlamaForm2.exe
+C:\Users\Msı\Desktop\Görsel Programlama Projeleri\GörselProgramlamaForm2\GörselProgramlamaForm2\obj\Debug\GörselProgramlamaForm2.pdb
